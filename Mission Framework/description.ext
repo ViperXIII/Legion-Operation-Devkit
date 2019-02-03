@@ -1,4 +1,4 @@
-author = "Viper & Skullzy";												/*/ Visible when loading mission/*/
+author = "Legion Mission Team";												/*/ Visible when loading mission/*/
 onLoadName = "Operations - Legion XIII";										/*/ Visible when loading mission/*/
 onLoadMission = "Welcome to the Legion! Enjoy the Operation!";
 loadScreen = "images\FORNOW.jpg";
